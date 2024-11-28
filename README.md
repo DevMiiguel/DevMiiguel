@@ -5,10 +5,10 @@
 Me chamo Miguel Henrique sou natural de Diadema/São Paulo, tenho 18 anos, concluí o ensino médio e sou fluente em inglês. Atualmente visando aumentar meus conhecimentos sobre a área de programação e hacking.
 
    <p align="left">
-      <a href="https://github.com/MiiguelHenriQ?tab=followers">
-         <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MiiguelHenriQ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/MiiguelHenriQ?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MiiguelHenriQ?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/DevMiiguel?tab=followers">
+         <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DevMiiguel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/DevMiiguel?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DevMiiguel?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -28,6 +28,6 @@ Me chamo Miguel Henrique sou natural de Diadema/São Paulo, tenho 18 anos, concl
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiiguelHenriQ&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMiiguel&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MiiguelHenriQ&theme=gruvbox&border_radius=4.5) -->
