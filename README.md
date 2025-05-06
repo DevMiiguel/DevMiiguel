@@ -5,10 +5,10 @@
 Me chamo Miguel, sou natural de São Paulo, tenho 18 anos, concluí o ensino médio e sou fluente em inglês. Atualmente visando aumentar meus conhecimentos sobre a área de programação e hacking.
 
    <p align="left">
-      <a href="https://github.com/DevMiiguel?tab=followers">
-         <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DevMiiguel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/DevMiiguel?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DevMiiguel?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/sod3ad?tab=followers">
+         <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/sod3ad?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/sod3ad?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sod3ad?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
