@@ -2,7 +2,7 @@
 
 **`(Desenvolvedor/Hacker)`**
 
-Me chamo Miguel Henrique sou natural de Diadema/São Paulo, tenho 18 anos, concluí o ensino médio e sou fluente em inglês. Atualmente visando aumentar meus conhecimentos sobre a área de programação e hacking.
+Me chamo Miguel, sou natural de São Paulo, tenho 18 anos, concluí o ensino médio e sou fluente em inglês. Atualmente visando aumentar meus conhecimentos sobre a área de programação e hacking.
 
    <p align="left">
       <a href="https://github.com/DevMiiguel?tab=followers">
