@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Miguel Henrique
+# 👨🏻‍💻 Miguel
 
 **`(Desenvolvedor/Hacker)`**
 
