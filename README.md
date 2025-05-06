@@ -28,6 +28,6 @@ Me chamo Miguel, sou natural de São Paulo, tenho 18 anos, concluí o ensino mé
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMiiguel&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sod3ad&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MiiguelHenriQ&theme=gruvbox&border_radius=4.5) -->
