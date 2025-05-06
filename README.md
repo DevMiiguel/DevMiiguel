@@ -1,6 +1,3 @@
-Here's the complete, ready-to-use README.md code with all elements included and optimized for GitHub:
-
-```markdown
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/High%20Voltage.png" width="30px"> 𝕾𝖔𝖉3𝖆𝖉 𝕸𝖎𝖌𝖚𝖊𝖑 
 
 **`(𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯 | ℌ𝔞𝔠𝔨𝔢𝔯 | 𝔖𝔢𝔠𝔲𝔯𝔦𝔱𝔶 𝔈𝔫𝔱𝔥𝔲𝔰𝔦𝔞𝔰𝔱)`**
@@ -20,12 +17,11 @@ Here's the complete, ready-to-use README.md code with all elements included and 
 
 ## 𝕭𝖎𝖔𝖌𝖗𝖆𝖕𝖍𝖞
 
-```diff
+diff
 + 𝔅𝔬𝔯𝔫 𝔦𝔫 𝔱𝔥𝔢 𝔡𝔦𝔤𝔦𝔱𝔞𝔩 𝔲𝔫𝔡𝔢𝔯𝔤𝔯𝔬𝔲𝔫𝔡 𝔬𝔣 𝔖ã𝔬 𝔓𝔞𝔲𝔩𝔬
 + 18 𝔶𝔢𝔞𝔯𝔰 𝔬𝔣 𝔡𝔞𝔯𝔨 𝔠𝔬𝔡𝔦𝔫𝔤 𝔢𝔵𝔭𝔢𝔯𝔦𝔢𝔫𝔠𝔢
 + 𝔉𝔩𝔲𝔢𝔫𝔱 𝔦𝔫 𝔱𝔥𝔢 𝔩𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰 𝔬𝔣 𝔪𝔞𝔠𝔥𝔦𝔫𝔢𝔰 (𝔈𝔑/𝔓𝔗)
 + 𝔖𝔱𝔲𝔡𝔶𝔦𝔫𝔤 𝔱𝔥𝔢 𝔞𝔯𝔱 𝔬𝔣 𝔰𝔢𝔠𝔲𝔯𝔢 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔪𝔢𝔫𝔱
-```
 
 ---
 
@@ -84,7 +80,6 @@ Here's the complete, ready-to-use README.md code with all elements included and 
 </p>
 
 > *"𝔗𝔥𝔢 𝔬𝔫𝔩𝔶 𝔰𝔞𝔣𝔢 𝔰𝔶𝔰𝔱𝔢𝔪 𝔦𝔰 𝔱𝔥𝔢 𝔬𝔫𝔢 𝔱𝔥𝔞𝔱'𝔰 𝔭𝔬𝔴𝔢𝔯𝔢𝔡 𝔬𝔣𝔣" - 𝕾𝖔𝖉3𝖆𝖉*
-```
 
 ### Key Features:
 
