@@ -77,7 +77,7 @@
 
 
   <h3>🧲 Connect me :</h3>
-<a href="mailto:mastdev.developer.1959@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+<a href="mailto:Sod3ad@proton.me"><img src="https://img.icons8.com/fluency/48/protonmail-2.png" alt="ProtonMail" /></a> 
   <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
     <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
@@ -108,9 +108,9 @@
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-<img width="405" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+<img width="405" src="https://github-readme-stats.vercel.app/api?username=Sod3ad&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
 
-  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sod3ad&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br/><br/>
@@ -118,7 +118,7 @@
 
 
 <!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+<h3 align="center">📚 Linguagens e ferramentas que já utilizei </h3>
 
 <br/>
 
