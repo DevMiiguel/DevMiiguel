@@ -77,7 +77,8 @@
 
 
   <h3>🧲 Connect me :</h3>
-<a href="mailto:Sod3ad@proton.me"><img src="https://img.icons8.com/fluency/48/protonmail-2.png" alt="ProtonMail" /></a> 
+<a href="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=protonmail&link=https%3A%2F%2Fimg.icons8.com%2Ffluency%2F48%2Fprotonmail-2.png" alt="Protonmail" /></a> 
+ 
   <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
     <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
