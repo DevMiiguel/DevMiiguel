@@ -1,4 +1,7 @@
-<h1 align="center">Olá, eu sou um Desenvolvedor Brasileiro</h1>
+<h1 align="center">
+  Miguel Sod3ad
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/flag-brazil_1f1e7-1f1f7.png" width="30" alt="Bandeira do Brasil"/>
+</h1>
 
 <h3 align="center">
   <span style="color:#00FF00">B</span>
@@ -18,11 +21,12 @@
 ## Sobre mim
 
 - Desenvolvedor apaixonado por automação, bots e desempenho
-- Foco em Python, Golang, JavaScript e desenvolvimento mobile com Flutter
+- Foco em Python, Golang, JavaScript e mobile com Flutter/Dart
+- Escrevendo código limpo e funcional
 
 ---
 
-## Linguagens e Tecnologias
+## Tecnologias que uso
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -34,8 +38,16 @@
 
 ---
 
-## Estatísticas GitHub
+## Estatísticas do GitHub
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default" alt="GitHub Streak"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide_rank=false&theme=default" alt="GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default" alt="Linguagens Mais Usadas"/>
 </p>
