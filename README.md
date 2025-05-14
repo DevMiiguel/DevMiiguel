@@ -28,12 +28,12 @@
 
 
 <!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MIGUEl+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
 
 <!-- Greeting -->
 </h1>
-<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
+<h1 align="center">As-salamu-alaykum 🙏 I'm Miguel Sod3ad</h1>
 
 <h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.</h4>
 
