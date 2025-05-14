@@ -33,9 +33,9 @@
 
 <!-- Greeting -->
 </h1>
-<h1 align="center">As-salamu-alaykum 🙏 I'm Miguel Sod3ad</h1>
+<h1 align="center">As-salamu-alaykum 🙏 Me chamo Miguel Sod3ad</h1>
 
-<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.</h4>
+<h4 align="left">🌟Atualmente, estou cursando Bacharelado em Ciência da Computação, trabalhando ativamente para aprimorar minhas habilidades de programação e explorando diversas áreas do setor de TI. Minha jornada acadêmica e pessoal está focada em construir uma base sólida em desenvolvimento de software, enquanto exploro ativamente tecnologias emergentes. Sou particularmente apaixonado por Cibersegurança e Hacking, e pretendo me especializar nessas áreas como uma carreira de longo prazo.</h4>
 
 
  <div align="center">
