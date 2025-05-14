@@ -1,4 +1,4 @@
-## Miguel Sod3ad <img src="https://em-content.zobj.net/thumbs/120/apple/354/flag-brazil_1f1e7-1f1f7.png" width="25"/>
+## 🧑🏻‍💻 Miguel Sod3ad <img src="https://em-content.zobj.net/thumbs/120/apple/354/flag-brazil_1f1e7-1f1f7.png" width="25"/>
 
 ### Sobre mim
 
