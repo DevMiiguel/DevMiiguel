@@ -12,8 +12,6 @@ Nascido em São Paulo <img src="https://upload.wikimedia.org/wikipedia/commons/2
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35"/>
 
-ﮩ٨ـﮩﮩ٨ـﮩﮩ٨
-
 ### Estatísticas GitHub
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sod3ad&theme=default" alt="Streak"/>
@@ -21,5 +19,3 @@ Nascido em São Paulo <img src="https://upload.wikimedia.org/wikipedia/commons/2
 <img src="https://github-readme-stats.vercel.app/api?username=Sod3ad&show_icons=true&theme=default" alt="Stats"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sod3ad&layout=compact&theme=default" alt="Top Languages"/>
-
-ﮩ٨ـﮩﮩ٨ـﮩﮩ٨
