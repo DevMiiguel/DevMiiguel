@@ -3,19 +3,6 @@
   <img src="https://em-content.zobj.net/thumbs/120/apple/354/flag-brazil_1f1e7-1f1f7.png" width="30" alt="Bandeira do Brasil"/>
 </h1>
 
-<h3 align="center">
-  <span style="color:#00FF00">B</span>
-  <span style="color:#33FF00">r</span>
-  <span style="color:#66FF00">a</span>
-  <span style="color:#99FF00">s</span>
-  <span style="color:#CCFF00">i</span>
-  <span style="color:#FFFF00">l</span>
-  <span style="color:#FFCC00">e</span>
-  <span style="color:#FF9900">i</span>
-  <span style="color:#FF6600">r</span>
-  <span style="color:#FF3300">o</span>
-</h3>
-
 ---
 
 ## Sobre mim
