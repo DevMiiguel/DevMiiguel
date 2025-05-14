@@ -6,16 +6,24 @@ Nascido em São Paulo <img src="https://upload.wikimedia.org/wikipedia/commons/2
 
 ### Tecnologias que uso
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35"/>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.sv](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/></td>
+  </tr>
+</table>
 
 ### Estatísticas GitHub
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sod3ad&theme=default" alt="Streak"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sod3ad&show_icons=true&theme=default" alt="Stats"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sod3ad&layout=compact&theme=default" alt="Top Languages"/>
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sod3ad&theme=default" width="360" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sod3ad&theme=default" width="360" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sod3ad&layout=compact&theme=default" width="360" /></td>
+  </tr>
+</table>
+
