@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Nascido em São Paulo ![Bandeira de São Paulo](https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg), Brasil ![Bandeira do brasil](https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg), - 18 anos. Programo por amor à criação e busco excelência em hacking, cibersegurança e pentesting. Sigo desenvolvendo ferramentas para o dia a dia.
+Nascido em São Paulo <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" width="18"/>, <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="18"/>, - 18 anos. Programo por amor à criação e busco excelência em hacking, cibersegurança e pentesting. Sigo desenvolvendo ferramentas para o dia a dia.
 
 ### Tecnologias que uso
 
