@@ -123,10 +123,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=c,kali,arch,ubuntupython,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,vim,flutter,dart,debian" /><br>
 </div>
 
 <br/>
